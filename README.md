@@ -1,5 +1,5 @@
 <h1 style="color: white">Hello World! Eu sou Luana Magnus Bonho</h1> 
-##
+
 <div>
   <a href="https://github.com/LuanaMagnusBonho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanamagnusbonho&show_icons=true&theme=bear&include_all_comits=true&count_private=true">
