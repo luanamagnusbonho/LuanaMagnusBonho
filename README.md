@@ -1,17 +1,24 @@
-### Hello World! Eu sou Luana Magnus Bonho 
+# **🩷 Hello World! Eu sou a Luana!**
+
+Desenvolvedora em formação, comprometida em criar soluções modernas, funcionais e com propósito.  
+Atualmente tenho focada em aprender **JavaScript** e **React**, com o objetivo de evoluir no desenvolvimento front-end e criar interfaces mais intuitivas e eficientes.
+Buscando aprender todos os dias para evoluir como desenvolvedora.
+
+### **Sobre mim**
+
+- 🎓 Formanda em Análise e Desenvolvimento de Sistemas
+- 📚 Estudando Javascript e React
+- 🌎 Explorando novas tecnologias e desenvolvendo novos projetos.
+- 🩷 Apaixonada por tecnologia e sempre em busca de novos conhecimentos para expandir minhas habilidades e crescer na área.
 
 ##
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript 
-- 😄 Pronouns: ela/dela
-
-##
-
+### **⭐ Github Stats**
+<br>
 <div>
   <a href="https://github.com/LuanaMagnusBonho">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanamagnusbonho&show_icons=true&theme=bear&include_all_comits=true&count_private=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamagnusbonho&layout=compact&langs_count=16&theme=bear">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanamagnusbonho&show_icons=true&theme=bear&include_all_comits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamagnusbonho&layout=compact&langs_count=16&theme=bear">
   </a>
 </div>
 
