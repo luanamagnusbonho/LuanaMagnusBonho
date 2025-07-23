@@ -13,13 +13,6 @@ Buscando aprender todos os dias para evoluir como desenvolvedora.
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanaMagnusBonho/LuanaMagnusBonho/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanaMagnusBonho/LuanaMagnusBonho/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuanaMagnusBonho/LuanaMagnusBonho/output/pacman-contribution-graph.svg">
-</picture>
-
-
 ### **⭐ Github Stats**
 <br>
 <div>
@@ -36,4 +29,6 @@ Buscando aprender todos os dias para evoluir como desenvolvedora.
   <img align="center" alt="luana-HTML" height="40"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luana-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+##
 
