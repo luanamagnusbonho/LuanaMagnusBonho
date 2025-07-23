@@ -19,7 +19,6 @@ Buscando aprender todos os dias para evoluir como desenvolvedora.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuanaMagnusBonho/LuanaMagnusBonho/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 ### **⭐ Github Stats**
 <br>
